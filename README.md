@@ -29,25 +29,11 @@ In this module, you'll learn to create the foundational card flip logic for enga
 
 ### Starter code
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/card-game-starter-code)
+🟢 [Starter code](https://github.com/SEB-BH/card-game-starter-code)
 
 ### Deployed sites
 
 🌐 [Live Example](https://flippin-awesome.surge.sh/)
 
-### Course landing pages
-
-- [Default Landing Page](https://ga-curriculum.github.io/card-game-starter/canvas-landing-pages/fallback)
-- [SEB - Software Engineering Bootcamp](https://ga-curriculum.github.io/card-game-starter/canvas-landing-pages/seb)
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
 
 **Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback)!**
